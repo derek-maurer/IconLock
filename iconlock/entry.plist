@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = IconLock;
+	cell = PSLinkCell;
+	detail = IconLockListController;
+	icon = IconLock.png;
+	isController = 1;
+	label = IconLock;
+    };
+}

@@ -1,0 +1,11 @@
+Package: com.homeschooldev.iconlock
+Name: IconLock
+Depends: mobilesubstrate
+Version: 0.0.1-201
+Architecture: iphoneos-arm
+Description: Do you ever get tired of people messing with your phone and moving all your icons around with no organization at all? With this tweak, I've fixed that problem. This tweak allows you to lock your SpringBoard icons in one place. If disabled, you can move your icons around as you please, and then you can turn it back on so that no one can mess with your phone ever again. This tweak adds no new icons to the SpringBoard. You can configure the tweak from the Settings app or an SBSettings toggle. 
+Homepage: http://homeschooldev.com
+Maintainer: Home School Dev
+Author: Home School Dev
+Section: Tweaks
+Installed-Size: 464

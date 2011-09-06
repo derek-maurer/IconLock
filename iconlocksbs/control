@@ -1,0 +1,9 @@
+Package: com.homeschooldev.iconlocksbs
+Name: IconLock
+Depends: sbsettings
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: This will turn IconLock on and off.
+Maintainer: Home School Dev
+Author: Home School Dev
+Section: Addons (SBSettings)
